@@ -1,3 +1,6 @@
+![image](https://github.com/vegadelalyra/react-search-table/assets/77188420/bc371169-6b8a-4e10-acab-4d6b4f3d2cd3)
+
+
 # react-search-table
 
 Thinking in React!    
